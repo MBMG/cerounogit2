@@ -1,0 +1,27 @@
+
+*** These modified files were found in JOE when it aborted on Tue Mar 12 20:03:18 2019
+*** JOE was aborted because the terminal closed
+
+*** File '/home/anerssum0021/cerouno/Hola-mundo/.git/COMMIT_EDITMSG'
+
+# Por favor ingrese el mensaje del commit para sus cambios. Las líneas que comiencen
+# con '#' serán ignoradas, y un mensaje vacío aborta el commit.
+#
+# En la rama master
+#
+# Confirmación inicial
+#
+# Cambios a ser confirmados:
+#	nuevo archivo:  README.md
+#
+PRUEBA DE COMMIT DE GIT 
+*** File '(Unnamed)'
+init
+/tmp/bash-fc.6g8urT
+/home/anerssum0021/cerouno/Hola-mundo/.git/COMMIT_EDITMSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
